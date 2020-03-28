@@ -1,0 +1,31 @@
+                                                                                                    
+                                            .xxxxxxxxxxx.                                           
+                                         xxxx           .xxx                                        
+                                       xx.                 .xx                                      
+                                     .@.                     .@.                                    
+                                    .@                         @x                                   
+                                    0                           0.                                  
+                                   @x                           .@                                  
+                                   0                            .0                                  
+                                   @.             .x@@@0000@@@x.@@                                  
+                                   .@        .@O@@@x.  x0OOOG.x00x                                  
+                                    xx    .0OGGx          @0.  @@                                   
+                                     @@..0OOGG.               xx                                    
+                                      x@O.  ..              .@x                                     
+                                        x@x              .xxx                                       
+                                          .xxxxxxxx@@@0xxx                                          
+                                                .@x0GO@x00x.                                        
+                                               .0@.   x@G..xx                                       
+                                              .xOOOOO0@ @...xx                                      
+                                             .xx@OOO@x@x@OO@xx@                                     
+                                            .@x......   xxx   x.                                    
+                                           ..@.    ..x@00      x                                    
+                                           ..x@.  ..O0x.x@@. .@x                                    
+                                            xGOxx.x0@   .GHOOO0                                     
+                                             xO0@xxx@xxxxOHGHO.                                     
+                                          .x... ..@xx.....0@x                                       
+                                         .@xxxxx@@x......@0x                                        
+                                               .@x@@@xxxxxx.                                        
+
+Author: Rafael Castro G. Silva.
+This work is licensed under a [Creative Commons Attribution 4.0 International]
