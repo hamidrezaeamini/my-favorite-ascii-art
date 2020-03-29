@@ -1,0 +1,24 @@
+              .x@@@@@@@@x.              
+         ..x@00000@xx@00000@x..         
+       x@000000@x.    .x@000000@x       
+     x000000000@xxxxxx..  .x@00000x     
+   .@00@xxx@0000000000000@.  ..x@00@.   
+  xxxx.     .00000000000000      .xx..  
+ @GGx        x000000000000x        .xx. 
+xGGGx          .xx@@@@xx.          .xxx.
+0GGGx                              .xxx.
+GGGGx  x0000x.             ..xx...xxxxxx
+GGGGx .GGGGGGO@.         .xxxxxxxxxxxxxx
+OGGGx .GGGGGGGGO.      .xxxxxxxxxx..xxxx
+xGGGx  0GGGGGGGGO.     xxxxxxxxx.  .xxx.
+ 0GGx   @GGGGGGGG.    .xxxxxxxx.   .xx. 
+  0G0x.  @GGGGGG0      .xxxxx..   ..x.  
+   @OGO0@@GGGG0.        ....  ...xxx.   
+    .0GGGGGGGG0            ..xxxxx.     
+      .@OGGGGGO@x.     ..xxxxxxx.       
+         .@0OGGGGO0...xxxxxx...         
+             .@0OGGx.xxx...             
+
+Author: Rafael Castro G. Silva.
+This work is licensed under a [Creative Commons Attribution 4.0 International]
+Generate with: jp2a -i --width=40 --chars=" ..xx@@00OOGGHHBBYYTTRR" fablab_logo.jpeg 

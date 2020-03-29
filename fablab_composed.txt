@@ -1,0 +1,25 @@
+                                                                                     
+               .x@@@@@@@@x.                                                          
+          ..x@00000@xx@00000@x..                                                     
+        x@000000@x.    .x@000000@x                                                  
+      x000000000@xxxxxx..  .x@00000x                                                
+    .@00@xxx@0000000000000@.  ..x@00@.                                               
+   xxxx.     .00000000000000      .xx..           _____     _       _          _     
+  @GGx        x000000000000x        .xx.         |  ___|_ _| |__   | |    __ _| |__
+ xGGGx          .xx@@@@xx.          .xxx.        | |_ / _` | '_ \  | |   / _` | '_ \
+ 0GGGx                              .xxx.        |  _| (_| | |_) | | |__| (_| | |_) |
+ GGGGx  x0000x.             ..xx...xxxxxx        |_|  \__,_|_.__/  |_____\__,_|_.__/
+ GGGGx .GGGGGGO@.         .xxxxxxxxxxxxxx                                            
+ OGGGx .GGGGGGGGO.      .xxxxxxxxxx..xxxx            _       _            _ _ _
+ xGGGx  0GGGGGGGGO.     xxxxxxxxx.  .xxx.           | | ___ (_)_ ____   _(_) | | ___
+  0GGx   @GGGGGGGG.    .xxxxxxxx.   .xx.         _  | |/ _ \| | '_ \ \ / / | | |/ _ \
+   0G0x.  @GGGGGG0      .xxxxx..   ..x.         | |_| | (_) | | | | \ V /| | | |  __/
+    @OGO0@@GGGG0.        ....  ...xxx.           \___/ \___/|_|_| |_|\_/ |_|_|_|\___|
+     .0GGGGGGGG0            ..xxxxx.                                                
+       .@OGGGGGO@x.     ..xxxxxxx.                                                  
+          .@0OGGGGO0...xxxxxx...                                                   
+              .@0OGGx.xxx...                                                       
+
+
+Author: Rafael Castro G. Silva.
+This work is licensed under a [Creative Commons Attribution 4.0 International]
