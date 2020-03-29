@@ -1,0 +1,26 @@
+                                                                                
+                                 ..,xx,xxx@xx,x,,.  ....,.                      
+                      ....    .,,@,@,xxxxxx,@xx,xx@,,.   .,x,.                  
+                  .,x,,.   .,xxxxx@xxx@x@x@@x@x@,xxxxxx,.   .xx,.               
+               .,xx,.    .,xxxxxx@@@@@@@@@@@@@@@@x@xxx,@x,    .x@x.             
+            .,@@x.      .@xxxxxx@@@xx,,,x@@@@@@@@@@@@xxxxxx.    .x@x.           
+         .,x@@x.       ,xxxxx@@@@@@,,,,..,x@@@@@@@@@@@@xxxx@.     .x@x.         
+       .,@@@x.        .xxxxx@@@@@@@@@@@x...x@@@@@@@@@@@@xxxxx.      .x@x.       
+     .x@@@x.          @x,xx@@@@@@@@@@@@@,..,@@@@@@@@@@@@xxxxxx        ,@@x.     
+   .x@@@@,           .xxxxx@@@@@@@@@@@@x,...x@@@@@@@@@@@@xxxx@         .@@@,    
+  ,@@@@x.            ,xxxx@@@@@@@@@@@@x,.,..,x@@@@@@@@@@@xxxxx.         .x@@x.  
+ ,@@@@@x             ,@x,x@@@@@@@@@@@x,.,x,..,@@@@@@@@@@@xxxx@.         .@@@@,  
+   .x@@@@,           .@xxxx@@@@@@@@@@,..x@x,..x@@@@@@@@@@xxxxx        .x@@@,.   
+     .,@@@x,          ,xxxx@@@@@@@@@,..,@@@,..,@@@@@@@@@xxxx@.      .,@@x,      
+        .x@@@,         x@,,xx@@@@@@,..,@@@@@,..,xx@@@@@xxxxx,      ,@@x.        
+           ,x@@,.       xxxxxx@@@@,,,,@@@@@@x,....x@@@xx,xx,     ,@x,.          
+              ,x@x.      ,x,xxx@x@@@@@@@@@@@@@@@@@@@xxxxxx.    ,x,.             
+                 .,x,.    .,xxxxxxx@@@@@@@@@@@@@xxxx,@xx,    ,x,                
+                    .,,.     ,,@,@,xxxx@x@x@,@,xxxxxx,.    ...                  
+                       ....     .,xxx@,@,x,xxxxxx,,.                            
+                                     ....,,....                                 
+                                                                                
+
+Author: Rafael Castro G. Silva.
+This work is licensed under a [Creative Commons Attribution 4.0 International]
+Generated with: jp2a -i --width=80 --chars=" ..,,xx@@OO" coloquios_logo.jpeg
