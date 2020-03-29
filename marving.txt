@@ -27,5 +27,6 @@
                                          .@xxxxx@@x......@0x                                        
                                                .@x@@@xxxxxx.                                        
 
-Author: Rafael Castro G. Silva.
+Author: Rafael Castro G. Silva
 This work is licensed under a [Creative Commons Attribution 4.0 International]
+Generated with:  jp2a -i --width=100 --chars=" ..xx@@00OOGGHHBBYYTTRR" some_stolen_image.jpeg
